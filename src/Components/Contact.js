@@ -9,7 +9,7 @@ const Contact =()=>{
 <div className={isLight?'light':'dark'}>
 <Navbar/>
 
-<h1>Contact me at shaikhvakasahmed@gmail.com</h1>
+<h1>Contact me at joshirj95499@gmail.com</h1>
 </div>
 
 </>
